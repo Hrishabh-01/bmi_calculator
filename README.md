@@ -28,7 +28,7 @@ A simple Body Mass Index (BMI) calculator app built using Flutter. This app calc
 1. Clone the repository:
    ```bash
    git clone https://github.com/Hrishabh-01/bmi_calculator.git
-   cd bmi-calculator
+   cd bmi_calculator
 2. Install dependencies:
    ```bash
    flutter pub get
@@ -44,6 +44,8 @@ A simple Body Mass Index (BMI) calculator app built using Flutter. This app calc
  2. Enter your height in feet and inches.
  3. Tap the Calculate button.
  4. View your BMI and health status on the screen.
+    
+---
 
 ## Happy Coding! 🚀
 
